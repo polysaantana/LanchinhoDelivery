@@ -15,7 +15,7 @@ Desenvolvimento web para visualização em smartphones.
 * Rodapé com botão de finalização do pedido;
 
 ## Conheça o aplicativo clicando no link
-https://polysaantana.github.io/Delivery-Lanchinho/
+https://polysaantana.github.io/LanchinhoDelivery/
 
 <div align="center">
   <img src="img/aplicativo.png" alt="Aplicativo" width="300.12" />
